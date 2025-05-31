@@ -7,10 +7,10 @@ export default function Projects(){
                             hover:shadow-xl hover:scale-[102%] w-full">
                 <div className="w-80 rounded">
                     <a href="https://react.dev/" className="w-full h-full">
-                        <img src="https://cdn.tisglobalsummit.com/app/uploads/sites/7/2024/02/ia-tourism.jpg"></img>
+                        <img src="https://cdn.tisglobalsummit.com/app/uploads/sites/7/2024/02/ia-tourism.jpg" alt="Project1"></img>
                     </a><br></br>
                     <a href="https://react.dev/" className="w-full h-full">
-                        <img src="https://miro.medium.com/v2/resize:fit:886/1*aMfa51Uc1p8AEIq3yfPvKA.png"></img>
+                        <img src="https://miro.medium.com/v2/resize:fit:886/1*aMfa51Uc1p8AEIq3yfPvKA.png" alt="Project2"></img>
                     </a>
                 </div>
             

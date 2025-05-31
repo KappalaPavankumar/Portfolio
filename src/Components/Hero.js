@@ -16,10 +16,10 @@ export default function Hero(){
             </div>
             <div className="flex-1">
                 <img src="Professional.jpeg" 
-                alt="Hello.svg"
+                alt="Pavan"
                 className=" bg-cover rounded-full h--10 w--10"/>
 
-            </div>
+            </div>  
 
 
         </section>

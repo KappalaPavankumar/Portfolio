@@ -5,7 +5,7 @@ export default function NavBar(){
                             items-center max-w-5xl mx-auto">
                 <div className="flex gap-2 flex-row-reverse">
                     <h3 className="text-3xl text-red-500 font-bold">My Portfolio</h3>
-                    <img src="Professional.jpeg" className="w-10 rounded-full border border-[#fecaca] p-[1px]"/>
+                    <img src="Professional.jpeg" alt="Pavan" className="w-10 rounded-full border border-[#fecaca] p-[1px]"/>
                 </div>
                 <ul className="flex gap-3 align-center p-1 flex-wrap">
                     <li><a className="text-sm sm:text-base px-2 lg:px-5
