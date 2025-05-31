@@ -13,7 +13,8 @@ export default function About(){
                     Madanapalle Institute of Technology and Science in Madanapalle.</p>
                 <p>I have done Bachelor of Science with a stream of Computers 
                     in Shri Gnanambica Degree College at Madanapalle which is affiliated to 
-                    Sir Venkateshwara University at Tirupati</p>
+                    Sir Venkateshwara University at Tirupati.</p>
+                <p>Currently, I am working as a Web Developer at <span className="text-violet-600 underline">Siva Complete Solutions Pvt.Ltd in Bengaluru</span>.</p>
                 
             </div>
         </section>
